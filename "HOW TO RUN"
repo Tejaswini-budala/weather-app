@@ -1,0 +1,10 @@
+## ⚙️ How to Run
+
+1. Install Python
+2. Install required library:
+   pip install requests
+
+3. Add your API key in the code
+
+4. Run the program:
+   python weather.py
